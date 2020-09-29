@@ -1,0 +1,27 @@
+[
+  {
+    "login": "Santosh",
+    "id": 1,
+    "review": "This is book is awesome, and i highly recommend it for the beginners",
+    "rating": "4.00f"
+  },
+   {
+    "login": "Charan",
+    "id": 2,
+    "review":"Loved it!!!",
+    "rating": "3.50f"
+  },
+   {
+    "login": "Aichu",
+    "id": 3,
+    "review": "Hate this book",
+    "rating": "1.00f"
+  },
+  {
+    "login": "Prakash",
+    "id": 4,
+    "review": "A great book to learn.",
+    "rating": "5.00f"
+  } 
+   
+]
